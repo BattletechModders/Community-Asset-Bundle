@@ -911,6 +911,10 @@ Phantom
 Kingfisher
 Sunder
 Doloire
+IonLongbow
+
+Transient&Mason
+Viking
 
 B4CKF1SH&Colobos:
 Vapor Eagle - discontinued
