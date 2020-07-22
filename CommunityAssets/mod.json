@@ -9651,7 +9651,32 @@
 	
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masonviking/chrprfweap_masonviking_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_masonvikingbase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masonviking/chrprfweap_masonviking_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_masonvikingbase-001" },
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masonviking/chrprfweap_masonviking_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_masonvikingbase-001" }
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masonviking/chrprfweap_masonviking_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_masonvikingbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ionlongbow/chrPrfComp_ionlongbow_simgame.prefab", "AssetBundleName": "chrprfmech_ionlongbowbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_ionlongbowbase-001.prefab", "AssetBundleName": "chrprfmech_ionlongbowbase-001" },	
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ionlongbow/chrPrfComp_ionlongbow_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_ionlongbowbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionlongbow/chrprfweap_ionlongbow_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionlongbowbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionlongbow/chrprfweap_ionlongbow_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_ionlongbowbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionlongbow/chrprfweap_ionlongbow_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_ionlongbowbase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionlongbow/chrprfweap_ionlongbow_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionlongbowbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionlongbow/chrprfweap_ionlongbow_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_ionlongbowbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionlongbow/chrprfweap_ionlongbow_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_ionlongbowbase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionlongbow/chrprfweap_ionlongbow_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionlongbowbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionlongbow/chrprfweap_ionlongbow_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_ionlongbowbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionlongbow/chrprfweap_ionlongbow_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_ionlongbowbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionlongbow/chrprfweap_ionlongbow_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionlongbowbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionlongbow/chrprfweap_ionlongbow_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_ionlongbowbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionlongbow/chrprfweap_ionlongbow_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_ionlongbowbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionlongbow/chrprfweap_ionlongbow_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionlongbowbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionlongbow/chrprfweap_ionlongbow_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_ionlongbowbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionlongbow/chrprfweap_ionlongbow_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_ionlongbowbase-001" }
 
     ]
 }
