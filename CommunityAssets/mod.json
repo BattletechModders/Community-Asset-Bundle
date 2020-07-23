@@ -9676,7 +9676,32 @@
 	
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionlongbow/chrprfweap_ionlongbow_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionlongbowbase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionlongbow/chrprfweap_ionlongbow_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_ionlongbowbase-001" },
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionlongbow/chrprfweap_ionlongbow_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_ionlongbowbase-001" }
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionlongbow/chrprfweap_ionlongbow_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_ionlongbowbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/masondev/chrPrfComp_masondev_simgame.prefab", "AssetBundleName": "chrprfmech_masondevbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_masondevbase-001.prefab", "AssetBundleName": "chrprfmech_masondevbase-001" },	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/masondev/chrPrfComp_masondev_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_masondevbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/masondev/chrPrfComp_masondev_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_masondevbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masondev/chrprfweap_masondev_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_masondevbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masondev/chrprfweap_masondev_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_masondevbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masondev/chrprfweap_masondev_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_masondevbase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masondev/chrprfweap_masondev_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_masondevbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masondev/chrprfweap_masondev_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_masondevbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masondev/chrprfweap_masondev_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_masondevbase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masondev/chrprfweap_masondev_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_masondevbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masondev/chrprfweap_masondev_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_masondevbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masondev/chrprfweap_masondev_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_masondevbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masondev/chrprfweap_masondev_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_masondevbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masondev/chrprfweap_masondev_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_masondevbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masondev/chrprfweap_masondev_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_masondevbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masondev/chrprfweap_masondev_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_masondevbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masondev/chrprfweap_masondev_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_masondevbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/masondev/chrprfweap_masondev_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_masondevbase-001" }
 
     ]
 }
