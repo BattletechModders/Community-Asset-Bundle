@@ -28,6 +28,18 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+10.2
+
+Added the Devastator 
+
+10.1
+
+Added the Ion Longbow
+
+10.0
+
+Added the Viking
+
 9.9
 
 Added the Onager
