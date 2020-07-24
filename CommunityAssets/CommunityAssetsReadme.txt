@@ -817,65 +817,89 @@ Marauder II
 Juggernaut
 
 Colobos:
+Arctic Wolf
+Bane
+BlackBeard
+Blitzkrieg
+Black Lanner
+Community Catapult
+Chimera
+Choo Choo
+Community Urbie
+Dasher
+Dervish
+Dire Wolf
+Elemental
+Gargoyle
+GroovyCat
 Hatamoto-Chi
-Mauler
-Wolfhound
-Raven - replaced by urban warfare
+Hellfire
+Highlander IIC
+Hornet
+Huntsman
+Hussar
+Ice Ferret
+Jenner IIC
+Kanazuchi
 Kit Fox
-Vulcan
-Javelin - replaced by urban warfare
+Linebacker
+Locust IIC
+Lupus
+Mad Cat
+Mad Dog
+Marauder IIC 
+Mauler
+Mist Lynx
+Mongoose
+Night Gyr
+Omega
+Orion IIC
+Owens
+Phoenix Hawk LAM
+Piranha
+Red Reaper
+Rifleman IIC
+RT Corsair
+Shadow Hawk LAM
+Shanky
+Stinger LAM
+Stone Rhino
 Summoner
 Sunspider
-Hellfire
-Lupus
 Supernova
-Missile Carriers
-Ice Ferret
-Dire Wolf
-Union DropShip
-Huntsman
-Tank pack 1
-Mars Assault Tank
-Gargoyle
-Marauder Redux
-Night Gyr
-Arctic Wolf
-Linebacker
-Long Tom
-Marauder IIC
-Tank Pack 2
-Stone Rhino
-Black Lanner
-Mist Lynx
-Piranha
-Shanky
-Red Reaper
-GroovyCat
-TurretPack
-Elemental
-Kanazuchi
-Orion IIC
-Hemt salvage trucks - discontinued
-Mad Cat
+Titan II
 K9 UrbanMech
-UrbieTurrets
-Community Urbie
-Rifleman IIC
-LandAirMech's
+UrbieLAM
+Vapour Eagle
+Waneta
 Warhammer IIC
-Dervish
+Wasp LAM
+Wolfhound
 Xenorauder
-OmniHammer - discontinued
+Zeus X
+
 Bolla
-Mongoose
-VTOL Pack
-RT Corsair
+Long Tom
+Mars Assault Tank
+Missile Carriers
+More Turrets
+Tank pack 1
+Tank Pack 2
 Tank Pack 4
 Tank Pack 5
 Tank Pack 6
 Tank Pack 7
-Choo Choo
-More Turrets
+TurretPack
+Union DropShip
+UrbieTurrets
+Urbie Tanks
+VTOL Pack
+
+Raven - replaced by Urban Warfare
+Vulcan - replaced by Heavy Metal
+Javelin - replaced by Urban Warfare
+Hemt salvage trucks - discontinued
+OmniHammer - discontinued
 
 B4CKF1SH:
 Timber Wolf - superceded by Mad Cat bundle
