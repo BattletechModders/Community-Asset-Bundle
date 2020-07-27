@@ -28,6 +28,10 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+10.3
+
+Added the Dragonfire
+
 10.2
 
 Added the Devastator 
