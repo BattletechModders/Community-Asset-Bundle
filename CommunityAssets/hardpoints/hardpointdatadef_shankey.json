@@ -2,17 +2,6 @@
     "ID" : "hardpointdatadef_shankey",
     "HardpointData" : [
         {
-            "location" : "leftarm",
-            "weapons" : [
-			],
-            "blanks" : [
-
-            ],
-            "mountingPoints" : [
-                
-            ]
-        },
-        {
             "location" : "lefttorso",
             "weapons" : [
 			[
@@ -74,34 +63,12 @@
             ]
         },
         {
-            "location" : "head",
-            "weapons" : [			
-            ],
-            "blanks" : [
-                
-            ],
-            "mountingPoints" : [
-                
-            ]
-        },
-        {
             "location" : "rightleg",
             "weapons" : [
 			[
 			"chrPrfWeap_shankey_rightleg_srm4_mh1"		
             ]			
             ],
-            "blanks" : [
-                
-            ],
-            "mountingPoints" : [
-                
-            ]
-        },			
-		{
-            "location" : "centertorso",
-            "weapons" : [				
-			],
             "blanks" : [
                 
             ],
