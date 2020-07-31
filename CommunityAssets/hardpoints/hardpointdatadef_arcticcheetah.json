@@ -2,18 +2,6 @@
     "ID" : "hardpointdatadef_arcticcheetah",
     "HardpointData" : [
         {
-            "location" : "head",
-            "weapons" : [
-			
-			],
-            "blanks" : [
-                
-            ],
-            "mountingPoints" : [
-                
-            ]
-        },
-        {
             "location" : "leftarm",
             "weapons" : [
                 [

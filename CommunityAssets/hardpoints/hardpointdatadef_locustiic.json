@@ -53,29 +53,7 @@
             "mountingPoints" : [
                 
             ]
-        },
-        {
-            "location" : "righttorso",
-            "weapons" : [			
-			],
-            "blanks" : [
-			
-            ],
-            "mountingPoints" : [
-                
-            ]
-        },
-        {
-            "location" : "head",
-            "weapons" : [			
-            ],
-            "blanks" : [
-                
-            ],
-            "mountingPoints" : [
-                
-            ]
-        },		
+        },	
 		{
             "location" : "centertorso",
             "weapons" : [
