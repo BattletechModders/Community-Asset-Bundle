@@ -9776,7 +9776,32 @@
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/dragonfire/chrprfweap_dragonfire_righttorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_dragonfirebase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/dragonfire/chrprfweap_dragonfire_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_dragonfirebase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/dragonfire/chrprfweap_dragonfire_righttorso_srm6_mh2.prefab", "AssetBundleName": "chrprfmech_dragonfirebase-001" },
-		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/dragonfire/chrprfweap_dragonfire_righttorso_uac5_bh1.prefab", "AssetBundleName": "chrprfmech_dragonfirebase-001" }
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/dragonfire/chrprfweap_dragonfire_righttorso_uac5_bh1.prefab", "AssetBundleName": "chrprfmech_dragonfirebase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/crosscut/chrPrfComp_crosscut_simgame.prefab", "AssetBundleName": "chrprfmech_crosscutbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_crosscutbase-001.prefab", "AssetBundleName": "chrprfmech_crosscutbase-001" },	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/crosscut/chrPrfComp_crosscut_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_crosscutbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/crosscut/chrPrfComp_crosscut_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_crosscutbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/crosscut/chrprfweap_crosscut_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_crosscutbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/crosscut/chrprfweap_crosscut_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_crosscutbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/crosscut/chrprfweap_crosscut_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_crosscutbase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/crosscut/chrprfweap_crosscut_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_crosscutbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/crosscut/chrprfweap_crosscut_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_crosscutbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/crosscut/chrprfweap_crosscut_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_crosscutbase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/crosscut/chrprfweap_crosscut_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_crosscutbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/crosscut/chrprfweap_crosscut_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_crosscutbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/crosscut/chrprfweap_crosscut_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_crosscutbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/crosscut/chrprfweap_crosscut_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_crosscutbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/crosscut/chrprfweap_crosscut_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_crosscutbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/crosscut/chrprfweap_crosscut_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_crosscutbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/crosscut/chrprfweap_crosscut_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_crosscutbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/crosscut/chrprfweap_crosscut_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_crosscutbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/crosscut/chrprfweap_crosscut_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_crosscutbase-001" }
 
     ]
 }

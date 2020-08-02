@@ -28,6 +28,10 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+10.4
+
+Added the Crosscut
+
 10.3
 
 Added the Dragonfire
@@ -818,7 +822,6 @@ Osiris
 Longbow
 Corsair - discontinued
 Marauder II
-Juggernaut
 
 Colobos:
 Arctic Wolf
@@ -948,6 +951,7 @@ Kingfisher
 Sunder
 Doloire
 IonLongbow
+Crosscut
 
 Transient&Mason
 Viking
@@ -974,3 +978,4 @@ Mackie
 
 LtShade&Bloodydoves
 Imp
+Juggernaut
