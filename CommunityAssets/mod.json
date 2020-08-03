@@ -9826,7 +9826,32 @@
 	
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grendel/chrprfweap_grendel_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_grendelbase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grendel/chrprfweap_grendel_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_grendelbase-001" },
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grendel/chrprfweap_grendel_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_grendelbase-001" }
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grendel/chrprfweap_grendel_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_grendelbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/starslayer/chrPrfComp_starslayer_simgame.prefab", "AssetBundleName": "chrprfmech_starslayerbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_starslayerbase-001.prefab", "AssetBundleName": "chrprfmech_starslayerbase-001" },	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/starslayer/chrPrfComp_starslayer_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_starslayerbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/starslayer/chrPrfComp_starslayer_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_starslayerbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/starslayer/chrprfweap_starslayer_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_starslayerbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/starslayer/chrprfweap_starslayer_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_starslayerbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/starslayer/chrprfweap_starslayer_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_starslayerbase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/starslayer/chrprfweap_starslayer_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_starslayerbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/starslayer/chrprfweap_starslayer_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_starslayerbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/starslayer/chrprfweap_starslayer_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_starslayerbase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/starslayer/chrprfweap_starslayer_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_starslayerbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/starslayer/chrprfweap_starslayer_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_starslayerbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/starslayer/chrprfweap_starslayer_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_starslayerbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/starslayer/chrprfweap_starslayer_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_starslayerbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/starslayer/chrprfweap_starslayer_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_starslayerbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/starslayer/chrprfweap_starslayer_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_starslayerbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/starslayer/chrprfweap_starslayer_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_starslayerbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/starslayer/chrprfweap_starslayer_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_starslayerbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/starslayer/chrprfweap_starslayer_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_starslayerbase-001" }
 
     ]
 }

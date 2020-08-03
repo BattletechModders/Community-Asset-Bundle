@@ -28,6 +28,10 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+10.6
+
+Added the Starslayer
+
 10.5 
 
 Added the Grendel
