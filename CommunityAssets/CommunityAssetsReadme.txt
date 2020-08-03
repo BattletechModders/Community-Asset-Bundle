@@ -28,6 +28,10 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+10.5 
+
+Added the Grendel
+
 10.4
 
 Added the Crosscut

@@ -9801,7 +9801,32 @@
 	
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/crosscut/chrprfweap_crosscut_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_crosscutbase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/crosscut/chrprfweap_crosscut_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_crosscutbase-001" },
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/crosscut/chrprfweap_crosscut_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_crosscutbase-001" }
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/crosscut/chrprfweap_crosscut_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_crosscutbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/grendel/chrPrfComp_grendel_simgame.prefab", "AssetBundleName": "chrprfmech_grendelbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_grendelbase-001.prefab", "AssetBundleName": "chrprfmech_grendelbase-001" },	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/grendel/chrPrfComp_grendel_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_grendelbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/grendel/chrPrfComp_grendel_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_grendelbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grendel/chrprfweap_grendel_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_grendelbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grendel/chrprfweap_grendel_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_grendelbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grendel/chrprfweap_grendel_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_grendelbase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grendel/chrprfweap_grendel_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_grendelbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grendel/chrprfweap_grendel_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_grendelbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grendel/chrprfweap_grendel_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_grendelbase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grendel/chrprfweap_grendel_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_grendelbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grendel/chrprfweap_grendel_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_grendelbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grendel/chrprfweap_grendel_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_grendelbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grendel/chrprfweap_grendel_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_grendelbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grendel/chrprfweap_grendel_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_grendelbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grendel/chrprfweap_grendel_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_grendelbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grendel/chrprfweap_grendel_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_grendelbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grendel/chrprfweap_grendel_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_grendelbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grendel/chrprfweap_grendel_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_grendelbase-001" }
 
     ]
 }

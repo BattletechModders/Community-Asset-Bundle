@@ -1,0 +1,86 @@
+{
+    "ID" : "hardpointdatadef_grendel",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_grendel_leftarm_laser_eh1",
+			"chrprfweap_grendel_leftarm_lrm10_mh1",
+			"chrprfweap_grendel_leftarm_ac10_bh1"
+			]
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_grendel_lefttorso_laser_eh1",
+			"chrprfweap_grendel_lefttorso_lrm10_mh1",
+			"chrprfweap_grendel_lefttorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_grendel_rightarm_laser_eh1",
+			"chrprfweap_grendel_rightarm_lrm10_mh1",
+			"chrprfweap_grendel_rightarm_ac10_bh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_grendel_righttorso_laser_eh1",
+			"chrprfweap_grendel_righttorso_lrm10_mh1",
+			"chrprfweap_grendel_righttorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrprfweap_grendel_centertorso_laser_eh1",
+			"chrprfweap_grendel_centertorso_lrm10_mh1",
+			"chrprfweap_grendel_centertorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}
