@@ -28,6 +28,10 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+10.7
+
+Added the Guillotine
+
 10.6
 
 Added the Starslayer
