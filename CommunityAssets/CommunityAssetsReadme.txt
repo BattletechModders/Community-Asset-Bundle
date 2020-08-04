@@ -28,6 +28,10 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+10.8
+
+Added the Ion Raptor
+
 10.7
 
 Added the Guillotine
