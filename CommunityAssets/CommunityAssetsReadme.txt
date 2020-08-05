@@ -943,6 +943,15 @@ Firebee
 Valkyrie II
 Black Python
 Lao Hu
+Yeoman
+Medusa
+Argus
+Cephalus
+Septicemia
+Osteon
+Hyperion
+Dragon Fire
+Yellow Jacket
 
 Transient74:
 Warthog LAM
