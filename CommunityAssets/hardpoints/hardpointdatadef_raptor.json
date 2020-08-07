@@ -1,0 +1,86 @@
+{
+    "ID" : "hardpointdatadef_raptor",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_raptor_leftarm_laser_eh1",
+			"chrprfweap_raptor_leftarm_lrm10_mh1",
+			"chrprfweap_raptor_leftarm_ac10_bh1"
+			]
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_raptor_lefttorso_laser_eh1",
+			"chrprfweap_raptor_lefttorso_lrm10_mh1",
+			"chrprfweap_raptor_lefttorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_raptor_rightarm_laser_eh1",
+			"chrprfweap_raptor_rightarm_lrm10_mh1",
+			"chrprfweap_raptor_rightarm_ac10_bh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_raptor_righttorso_laser_eh1",
+			"chrprfweap_raptor_righttorso_lrm10_mh1",
+			"chrprfweap_raptor_righttorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrprfweap_raptor_centertorso_laser_eh1",
+			"chrprfweap_raptor_centertorso_lrm10_mh1",
+			"chrprfweap_raptor_centertorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}

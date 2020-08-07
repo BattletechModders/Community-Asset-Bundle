@@ -28,6 +28,10 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+10.9
+
+Added the normal Raptor
+
 10.8
 
 Added the Ion Raptor
@@ -943,15 +947,6 @@ Firebee
 Valkyrie II
 Black Python
 Lao Hu
-Yeoman
-Medusa
-Argus
-Cephalus
-Septicemia
-Osteon
-Hyperion
-Dragon Fire
-Yellow Jacket
 
 Transient74:
 Warthog LAM
