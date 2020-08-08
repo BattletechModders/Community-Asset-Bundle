@@ -28,6 +28,10 @@ Modder Resource for all Community made Models
 ASSETBUNDLE CHANGELOG!
 =========
 
+11
+
+Added the Lancelot
+
 10.9
 
 Added the normal Raptor
