@@ -9989,7 +9989,32 @@
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/lancelot/chrprfweap_lancelot_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_lancelotbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/lancelot/chrprfweap_lancelot_righttorso_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_lancelotbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/lancelot/chrprfweap_lancelot_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_lancelotbase-001" },
-		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/lancelot/chrprfweap_lancelot_righttorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_lancelotbase-001" }
+		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/lancelot/chrprfweap_lancelot_righttorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_lancelotbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/gundam/chrPrfComp_gundam_simgame.prefab", "AssetBundleName": "chrprfmech_gundambase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_gundambase-001.prefab", "AssetBundleName": "chrprfmech_gundambase-001" },	
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/gundam/chrPrfComp_gundam_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_gundambase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gundam/chrprfweap_gundam_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gundambase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gundam/chrprfweap_gundam_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gundambase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gundam/chrprfweap_gundam_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gundambase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gundam/chrprfweap_gundam_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gundambase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gundam/chrprfweap_gundam_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gundambase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gundam/chrprfweap_gundam_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gundambase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gundam/chrprfweap_gundam_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gundambase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gundam/chrprfweap_gundam_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gundambase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gundam/chrprfweap_gundam_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gundambase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gundam/chrprfweap_gundam_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gundambase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gundam/chrprfweap_gundam_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gundambase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gundam/chrprfweap_gundam_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gundambase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gundam/chrprfweap_gundam_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gundambase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gundam/chrprfweap_gundam_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gundambase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gundam/chrprfweap_gundam_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gundambase-001" },
 
     ]
 }
